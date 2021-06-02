@@ -4,7 +4,7 @@
 
 
 - This file satisfies the instructions for the authors of [Turkish Journal of Electronical Engineering & Computer Sciences](https://journals.tubitak.gov.tr/elektrik/index.htm)
-,
+
 
 References must be numbered in square brackets within the article and listed in order of their first appearance in the text.
 All authors should be included in reference lists unless there are 6 or more, in which case only the first 5 should be given,
