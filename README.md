@@ -1,4 +1,4 @@
-# Tubitak Journal Reference Manegaer
+# Tubitak Journal Reference Manager
 
 ![Image of Yaktocat](https://journals.tubitak.gov.tr/elektrik/coverimage.htm?imageName=elk.jpg)
 
