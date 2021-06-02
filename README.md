@@ -1,4 +1,4 @@
-# TurkJElecEng-CompSci
+# Tubitak Journal Reference Manegaer
 
 ![Image of Yaktocat](https://journals.tubitak.gov.tr/elektrik/coverimage.htm?imageName=elk.jpg)
 
